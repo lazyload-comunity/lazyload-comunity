@@ -22,5 +22,6 @@ categories: FAQ code-of-conduct
 * дружелюбное общение;
 * помощь другим членам сообщества.
 
-[Как правильно задавать вопросы]([https://lazyloaddev.github.io/posts/2022-05-23-answer-question-right/](https://lazyloaddev.github.io/posts/2022-05-23-ask-question-right/))
+[Как правильно задавать вопросы](https://lazyloaddev.github.io/posts/2022-05-23-ask-question-right/)
+
 [Как правильно отвечать на вопросы](https://lazyloaddev.github.io/posts/2022-05-23-answer-question-right/)
