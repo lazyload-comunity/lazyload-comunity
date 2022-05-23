@@ -1,5 +1,5 @@
 ---
-title: "Какой компьютер нужен для iOS работки"
+title: "Какой компьютер нужен для iOS разработки"
 permalink: /ios/hardware-requirement/
 ---
 
