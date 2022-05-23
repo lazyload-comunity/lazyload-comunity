@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Задаем вопросы по программированию правильно"
-date: 2022-05-23 18:10:00 -0000
+date: 2022-05-23
 categories: FAQ code-of-conduct
 ---
 
