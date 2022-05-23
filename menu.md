@@ -5,7 +5,8 @@ permalink: /menu/
 
 Полезные ссылки:
 
-* iOs
+* iOS
+  * [Какой компьютер нужен для iOS разработки](./ios/hardware-requirement.md)
 * Flutter
 * Общие
   * [Правила поведения в сообществе](./_posts/2022-05-23-code-of-conduct.md) 
