@@ -2,6 +2,7 @@
 layout: post
 title: "Задаем вопросы по программированию правильно"
 date: 2022-05-23
+permalink: /posts/2022-05-23-ask-question-right/
 categories: FAQ code-of-conduct
 ---
 
