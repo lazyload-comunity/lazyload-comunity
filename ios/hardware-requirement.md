@@ -1,5 +1,6 @@
+---
 layout: page
 title: "Какой компьютер нужен для iOS работки"
-permalink: /ios/hardware-required/
-
+permalink: /ios/hardware-requirement/
+---
 # dhsfjkhsdkjfhsdjkfhjksdhf
