@@ -6,6 +6,7 @@ permalink: /menu/
 Полезные ссылки:
 
 * iOS
+  * [Курс](./ios/course.md)
   * [Какой компьютер нужен для iOS разработки](./ios/hardware-requirement.md)
 * Flutter
 * Общие
